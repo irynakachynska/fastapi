@@ -1,0 +1,7 @@
+name = "fastapi"
+compatibility_date = "2024-12-19"
+
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="AXBhAAIjcDE3NDllMDFiY2FhN2U0NGQyYmMwZGU3NGM0ZjNjZWU1OXAxMA" 
+UPSTASH_REDIS_REST_URL= "https://helpful-airedale-28769.upstash.io" 
